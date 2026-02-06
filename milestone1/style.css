@@ -1,0 +1,36 @@
+h1 {
+    color: tan;
+    text-align: center
+}
+body {
+    background-color: #211c1c;
+}
+p {
+    color: white;
+    text-align: left
+}
+h2 {
+    color: tan;
+    text-align: center;
+    padding-top: 30px;
+}
+ul{
+    color: white;
+    text-align: left
+}
+h4{
+    color: #ffaded;
+    text-align: left
+}
+h6{
+    color: white;
+    text-align: center
+}
+a {
+    color: #5EC0CC;
+}
+nav {
+    text-align: left;
+    padding-top: 20px
+}   
+
